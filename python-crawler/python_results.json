@@ -1,0 +1,711 @@
+{
+  "summary": {
+    "total_urls": 100,
+    "successful_fetches": 93,
+    "failed_fetches": 7,
+    "total_time": 10.864258527755737,
+    "average_time_per_url": 0.10864258527755738
+  },
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+      "title": "Natural language processing - Wikipedia",
+      "status": 200,
+      "time_taken": 0.7609074115753174,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/status/500",
+      "title": "Error: HTTP 500",
+      "status": 500,
+      "time_taken": 1.1484770774841309,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/CSS",
+      "title": "CSS - Wikipedia",
+      "status": 200,
+      "time_taken": 0.35709595680236816,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Software_testing",
+      "title": "Software testing - Wikipedia",
+      "status": 200,
+      "time_taken": 0.6617527008056641,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://github.com",
+      "title": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub",
+      "status": 200,
+      "time_taken": 0.18572735786437988,
+      "domain": "github.com"
+    },
+    {
+      "url": "https://httpbin.org/post",
+      "title": "Error: HTTP 405",
+      "status": 405,
+      "time_taken": 1.148177146911621,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Internet_Explorer?param4=511",
+      "title": "Internet Explorer - Wikipedia",
+      "status": 200,
+      "time_taken": 1.0617458820343018,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "title": "Reinforcement learning - Wikipedia",
+      "status": 200,
+      "time_taken": 0.5024054050445557,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Microservices",
+      "title": "Microservices - Wikipedia",
+      "status": 200,
+      "time_taken": 0.7881479263305664,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://developer.mozilla.org?param1=583",
+      "title": "MDN Web Docs",
+      "status": 200,
+      "time_taken": 1.14638090133667,
+      "domain": "developer.mozilla.org"
+    },
+    {
+      "url": "https://httpbin.org/html",
+      "title": "No title found",
+      "status": 200,
+      "time_taken": 3.1522223949432373,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/JSON",
+      "title": "JSON - Wikipedia",
+      "status": 200,
+      "time_taken": 0.9045820236206055,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/DevOps",
+      "title": "DevOps - Wikipedia",
+      "status": 200,
+      "time_taken": 1.1091110706329346,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Internet_Explorer?param2=125",
+      "title": "Internet Explorer - Wikipedia",
+      "status": 200,
+      "time_taken": 1.7836921215057373,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Automation?param6=358",
+      "title": "Automation - Wikipedia",
+      "status": 200,
+      "time_taken": 2.6416046619415283,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/CSS?param8=250",
+      "title": "CSS - Wikipedia",
+      "status": 200,
+      "time_taken": 2.043966293334961,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/macOS",
+      "title": "macOS - Wikipedia",
+      "status": 200,
+      "time_taken": 1.4865787029266357,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/iOS",
+      "title": "iOS - Wikipedia",
+      "status": 200,
+      "time_taken": 2.3996050357818604,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/TCP/IP",
+      "title": "Internet protocol suite - Wikipedia",
+      "status": 200,
+      "time_taken": 1.6192610263824463,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Algorithm",
+      "title": "Algorithm - Wikipedia",
+      "status": 200,
+      "time_taken": 2.168081045150757,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Google_Chrome?param19=330",
+      "title": "Google Chrome - Wikipedia",
+      "status": 200,
+      "time_taken": 3.134117841720581,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Serverless_computing",
+      "title": "Serverless computing - Wikipedia",
+      "status": 200,
+      "time_taken": 2.079373836517334,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/HTTP",
+      "title": "HTTP - Wikipedia",
+      "status": 200,
+      "time_taken": 1.9143354892730713,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Software_engineering",
+      "title": "Software engineering - Wikipedia",
+      "status": 200,
+      "time_taken": 2.5264170169830322,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/headers",
+      "title": "JSON Response: 194 characters",
+      "status": 200,
+      "time_taken": 2.8288955688476562,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/HTTPS",
+      "title": "HTTPS - Wikipedia",
+      "status": 200,
+      "time_taken": 2.7365989685058594,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/API",
+      "title": "API - Wikipedia",
+      "status": 200,
+      "time_taken": 2.828711986541748,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://dev.to",
+      "title": "DEV Community",
+      "status": 200,
+      "time_taken": 3.3935070037841797,
+      "domain": "dev.to"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Android_(operating_system)?param11=462",
+      "title": "Android (operating system) - Wikipedia",
+      "status": 200,
+      "time_taken": 3.7838897705078125,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Docker",
+      "title": "Docker - Wikipedia",
+      "status": 200,
+      "time_taken": 3.1501712799072266,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Containers",
+      "title": "Container - Wikipedia",
+      "status": 200,
+      "time_taken": 3.204306125640869,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/image/jpeg",
+      "title": "Non-HTML content: image/jpeg",
+      "status": 200,
+      "time_taken": 3.936067819595337,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://httpbin.org/delete?param3=555",
+      "title": "Error: HTTP 405",
+      "status": 405,
+      "time_taken": 3.936110258102417,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://httpbin.org/put",
+      "title": "Error: HTTP 405",
+      "status": 405,
+      "time_taken": 4.332814931869507,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://news.ycombinator.com",
+      "title": "Hacker News",
+      "status": 200,
+      "time_taken": 5.050480604171753,
+      "domain": "news.ycombinator.com"
+    },
+    {
+      "url": "https://httpbin.org/get",
+      "title": "JSON Response: 268 characters",
+      "status": 200,
+      "time_taken": 4.332655668258667,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://httpbin.org/user-agent",
+      "title": "JSON Response: 42 characters",
+      "status": 200,
+      "time_taken": 4.636627912521362,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kubernetes?param14=37",
+      "title": "Kubernetes - Wikipedia",
+      "status": 200,
+      "time_taken": 4.038306713104248,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/json",
+      "title": "JSON Response: 292 characters",
+      "status": 200,
+      "time_taken": 3.3108530044555664,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "title": "World Wide Web - Wikipedia",
+      "status": 200,
+      "time_taken": 3.9316821098327637,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://mozilla.org",
+      "title": "Internet for people, not profit \u2014 Mozilla Global",
+      "status": 200,
+      "time_taken": 5.314803123474121,
+      "domain": "mozilla.org"
+    },
+    {
+      "url": "https://httpbin.org/robots.txt",
+      "title": "Non-HTML content: text/plain",
+      "status": 200,
+      "time_taken": 4.332779884338379,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://httpbin.org/anything",
+      "title": "JSON Response: 341 characters",
+      "status": 200,
+      "time_taken": 4.738459587097168,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://developer.mozilla.org",
+      "title": "MDN Web Docs",
+      "status": 200,
+      "time_taken": 4.332471609115601,
+      "domain": "developer.mozilla.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Deep_learning",
+      "title": "Deep learning - Wikipedia",
+      "status": 200,
+      "time_taken": 4.314163684844971,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blockchain?param10=790",
+      "title": "Blockchain - Wikipedia",
+      "status": 200,
+      "time_taken": 5.215883255004883,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/API?param17=514",
+      "title": "API - Wikipedia",
+      "status": 200,
+      "time_taken": 5.300938367843628,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/status/200",
+      "title": "No title found",
+      "status": 200,
+      "time_taken": 4.63492226600647,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human\u2013computer_interaction",
+      "title": "Human\u2013computer interaction - Wikipedia",
+      "status": 200,
+      "time_taken": 4.449727535247803,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blockchain?param18=443",
+      "title": "Blockchain - Wikipedia",
+      "status": 200,
+      "time_taken": 6.169843435287476,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Big_data",
+      "title": "Big data - Wikipedia",
+      "status": 200,
+      "time_taken": 4.634609222412109,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://go.dev",
+      "title": "The Go Programming Language",
+      "status": 200,
+      "time_taken": 5.2355146408081055,
+      "domain": "go.dev"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Computer_architecture",
+      "title": "Computer architecture - Wikipedia",
+      "status": 200,
+      "time_taken": 4.718915700912476,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/get?param0=595",
+      "title": "JSON Response: 294 characters",
+      "status": 200,
+      "time_taken": 4.738440990447998,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robotics?param13=558",
+      "title": "Robotics - Wikipedia",
+      "status": 200,
+      "time_taken": 6.006589412689209,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Web_browser",
+      "title": "Web browser - Wikipedia",
+      "status": 200,
+      "time_taken": 4.841490983963013,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Web_development?param15=254",
+      "title": "Web development - Wikipedia",
+      "status": 200,
+      "time_taken": 5.362176418304443,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+      "title": "Microsoft Windows - Wikipedia",
+      "status": 200,
+      "time_taken": 5.032790899276733,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/xml",
+      "title": "Non-HTML content: application/xml",
+      "status": 200,
+      "time_taken": 5.23554253578186,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Automation",
+      "title": "Automation - Wikipedia",
+      "status": 200,
+      "time_taken": 5.688861608505249,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+      "title": "Quantum computing - Wikipedia",
+      "status": 200,
+      "time_taken": 5.572316646575928,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kubernetes",
+      "title": "Kubernetes - Wikipedia",
+      "status": 200,
+      "time_taken": 5.795910358428955,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/API?param9=663",
+      "title": "API - Wikipedia",
+      "status": 200,
+      "time_taken": 6.583918571472168,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/delete",
+      "title": "Error: HTTP 405",
+      "status": 405,
+      "time_taken": 6.519965410232544,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://httpbin.org/image/png",
+      "title": "Non-HTML content: image/png",
+      "status": 200,
+      "time_taken": 6.520001649856567,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mozilla_Firefox",
+      "title": "Firefox - Wikipedia",
+      "status": 200,
+      "time_taken": 6.4588305950164795,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://dev.to?param5=941",
+      "title": "DEV Community",
+      "status": 200,
+      "time_taken": 6.519836187362671,
+      "domain": "dev.to"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blockchain",
+      "title": "Blockchain - Wikipedia",
+      "status": 200,
+      "time_taken": 7.198314666748047,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "title": "Artificial intelligence - Wikipedia",
+      "status": 200,
+      "time_taken": 7.052840709686279,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/SOAP",
+      "title": "SOAP - Wikipedia",
+      "status": 200,
+      "time_taken": 6.641879081726074,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://developer.mozilla.org?param12=916",
+      "title": "MDN Web Docs",
+      "status": 200,
+      "time_taken": 7.9991254806518555,
+      "domain": "developer.mozilla.org"
+    },
+    {
+      "url": "https://httpbin.org/delay/1",
+      "title": "JSON Response: 309 characters",
+      "status": 200,
+      "time_taken": 7.999331474304199,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://stackoverflow.com",
+      "title": "Newest Questions - Stack Overflow",
+      "status": 200,
+      "time_taken": 10.046682119369507,
+      "domain": "stackoverflow.com"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Google_Chrome",
+      "title": "Google Chrome - Wikipedia",
+      "status": 200,
+      "time_taken": 7.777314186096191,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/JavaScript",
+      "title": "JavaScript - Wikipedia",
+      "status": 200,
+      "time_taken": 7.37265682220459,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/status/404",
+      "title": "Error: HTTP 404",
+      "status": 404,
+      "time_taken": 8.529465913772583,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cloud_computing",
+      "title": "Cloud computing - Wikipedia",
+      "status": 200,
+      "time_taken": 7.4670679569244385,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robotics",
+      "title": "Robotics - Wikipedia",
+      "status": 200,
+      "time_taken": 7.983077049255371,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://reddit.com",
+      "title": "Reddit - The heart of the internet",
+      "status": 200,
+      "time_taken": 10.838175535202026,
+      "domain": "reddit.com"
+    },
+    {
+      "url": "https://medium.com",
+      "title": "Medium: Read and write stories.",
+      "status": 200,
+      "time_taken": 9.324862241744995,
+      "domain": "medium.com"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Computer_graphics",
+      "title": "Computer graphics - Wikipedia",
+      "status": 200,
+      "time_taken": 8.529322385787964,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/XML",
+      "title": "XML - Wikipedia",
+      "status": 200,
+      "time_taken": 8.102496147155762,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "title": "Android (operating system) - Wikipedia",
+      "status": 200,
+      "time_taken": 8.451630353927612,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Continuous_delivery",
+      "title": "Continuous delivery - Wikipedia",
+      "status": 200,
+      "time_taken": 8.753488302230835,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Internet_Explorer",
+      "title": "Internet Explorer - Wikipedia",
+      "status": 200,
+      "time_taken": 8.714648962020874,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/GraphQL",
+      "title": "GraphQL - Wikipedia",
+      "status": 200,
+      "time_taken": 8.79462718963623,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Linux",
+      "title": "Linux - Wikipedia",
+      "status": 200,
+      "time_taken": 8.999706268310547,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cloud_computing?param7=716",
+      "title": "Cloud computing - Wikipedia",
+      "status": 200,
+      "time_taken": 9.420509338378906,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://example.com",
+      "title": "Example Domain",
+      "status": 200,
+      "time_taken": 10.18151068687439,
+      "domain": "example.com"
+    },
+    {
+      "url": "https://httpbin.org/uuid",
+      "title": "JSON Response: 48 characters",
+      "status": 200,
+      "time_taken": 8.999837636947632,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Unix",
+      "title": "Unix - Wikipedia",
+      "status": 200,
+      "time_taken": 9.12645959854126,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Web_development",
+      "title": "Web development - Wikipedia",
+      "status": 200,
+      "time_taken": 9.318445205688477,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Computer_network",
+      "title": "Computer network - Wikipedia",
+      "status": 200,
+      "time_taken": 9.271322250366211,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Natural_language_processing?param16=572",
+      "title": "Natural language processing - Wikipedia",
+      "status": 200,
+      "time_taken": 10.004787921905518,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://httpbin.org/patch",
+      "title": "Error: HTTP 405",
+      "status": 405,
+      "time_taken": 9.32480502128601,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://httpbin.org/ip",
+      "title": "JSON Response: 28 characters",
+      "status": 200,
+      "time_taken": 9.627483367919922,
+      "domain": "httpbin.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Virtual_reality",
+      "title": "Virtual reality - Wikipedia",
+      "status": 200,
+      "time_taken": 9.627131462097168,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Data_science",
+      "title": "Data science - Wikipedia",
+      "status": 200,
+      "time_taken": 9.466603994369507,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Augmented_reality",
+      "title": "Augmented reality - Wikipedia",
+      "status": 200,
+      "time_taken": 9.931443214416504,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operating_system",
+      "title": "Operating system - Wikipedia",
+      "status": 200,
+      "time_taken": 9.744529962539673,
+      "domain": "en.wikipedia.org"
+    }
+  ]
+}
