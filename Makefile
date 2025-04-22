@@ -1,5 +1,8 @@
 .PHONY: all setup run-python run-go compare clean generate-urls
 
+# Default number of workers (can be overridden with make WORKERS=20)
+WORKERS ?= 10
+
 # Default target
 all: setup run-python run-go compare
 
@@ -17,13 +20,13 @@ generate-urls:
 
 # Run Python crawler
 run-python:
-	@echo "Running Python crawler..."
-	cd python-crawler && python main.py
+	@echo "Running Python crawler with $(WORKERS) workers..."
+	cd python-crawler && python main.py $(WORKERS)
 
 # Run Go crawler
 run-go:
-	@echo "Running Go crawler..."
-	cd go-crawler && ./crawler
+	@echo "Running Go crawler with $(WORKERS) workers..."
+	cd go-crawler && ./crawler -workers=$(WORKERS)
 
 # Compare results
 compare:
@@ -57,3 +60,7 @@ help:
 	@echo "  compare      - Compare the results"
 	@echo "  clean        - Clean up generated files"
 	@echo "  help         - Show this help"
+	@echo ""
+	@echo "Variables:"
+	@echo "  WORKERS      - Number of concurrent workers (default: 10)"
+	@echo "                 Example: make run-python WORKERS=20"
