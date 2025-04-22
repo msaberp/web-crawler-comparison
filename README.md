@@ -72,12 +72,16 @@ Run the Python crawler:
 
 ```bash
 make run-python
+# With custom number of workers:
+make run-python WORKERS=20
 ```
 
 Run the Go crawler:
 
 ```bash
 make run-go
+# With custom number of workers:
+make run-go WORKERS=20
 ```
 
 ### Run Both and Compare
@@ -86,7 +90,11 @@ Run both crawlers and compare their results:
 
 ```bash
 make all
+# With custom number of workers for both:
+make all WORKERS=30
 ```
+
+The default number of workers is 10 if not specified.
 
 ### Clean Up
 
@@ -128,8 +136,9 @@ go build -o crawler main.go
 
 Both crawlers accept a parameter to adjust the number of concurrent workers:
 
-- Python: Pass a number as a command-line argument
-- Go: Use the `-workers` flag
+- When using the Makefile: Use the `WORKERS` variable (e.g., `make run-python WORKERS=50`)
+- Python direct execution: Pass a number as a command-line argument
+- Go direct execution: Use the `-workers` flag
 
 ## Output
 
